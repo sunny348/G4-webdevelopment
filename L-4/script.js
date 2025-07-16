@@ -165,4 +165,4 @@ async function fetchProducts() {
     }
 }
 
-fetchProducts()
+fetchProducts();
