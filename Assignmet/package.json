@@ -1,0 +1,22 @@
+{
+  "name": "assignmet",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny348/G4-webdevelopment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunny348/G4-webdevelopment/issues"
+  },
+  "homepage": "https://github.com/sunny348/G4-webdevelopment#readme",
+  "description": "",
+  "dependencies": {
+    "@changesets/cli": "^2.29.5"
+  }
+}
